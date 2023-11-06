@@ -260,9 +260,10 @@ section {
 }
 
 .about-containers{
-  gap: 2rem;
+  gap: 1rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+
 }
 
 .about-details-container {
@@ -275,7 +276,7 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  border-radius: 5rem;
 }
 
 .arrow {
